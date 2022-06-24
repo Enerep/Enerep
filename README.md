@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Enerep
-- 👀 I’m interested in problem solving and logic. I like when I use my critical thinking.
-- 🌱 I’m learning how to make an application for IPhone using XCode.
-- 💞️ I’m looking to collaborate on making an application or anything.
+- 👀 I’m interested in machine learning/artificial intelligience. 
+- 🌱 I’m learning how to make an modern optimized website. 
+- 💞️ I’m looking to collaborate on making an application.
 - 📫 How to reach me, mail: amgalanenerel@gmail.com
 
 <!---
