@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Enerep
-- 👀 I’m interested in machine learning/artificial intelligience. 
-- 🌱 I’m learning how to make an modern optimized website. 
-- 💞️ I’m looking to collaborate on making an application.
+- 👀 I’m interested in machine learning and data analysis. 
+- 🌱 I’m learning how to fine tune an LLM model.
 - 📫 How to reach me, mail: amgalanenerel@gmail.com
 
 <!---
